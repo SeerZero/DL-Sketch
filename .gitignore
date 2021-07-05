@@ -1,0 +1,11 @@
+DataGenerator/bin/*
+DataGenerator/build/*
+data/caida/*
+data/generator/*
+data/sketch/*
+data/predict/*
+!data/.gitkeep
+!data/generator/.gitkeep
+!data/sketch/.gitkeep
+!data/predict/.gitkeep
+.vscode
